@@ -1,0 +1,21 @@
+Discord ve Craftrise tokenleri
+
+Craftrise tokeni:
+
+
+
+
+
+
+
+Kullanmak için %appdata% yazıp .craftrise dosyasına girin config.jar'ı text olarak açıp üstte bulunanlardan bir tanesini atın
+
+Discord Tokeni:
+
+
+
+
+
+
+
+Discord Sitesine gidip giriş yerinde ctrl shift c basın ve console yerini açın sonra aşşağıdaki koda üstteki tokenlerden birisini girip entera basın
